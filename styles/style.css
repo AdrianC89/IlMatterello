@@ -1,0 +1,9 @@
+@import 'reset';
+
+/* Siempre poner las variables antes de cualquier estilo */
+@import 'variables.css';
+
+@import 'navbar.css';
+@import 'hero.css';
+@import 'features.css';
+@import 'footer.css'
